@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 👨‍💻 I'm a Multidisciplinary Engineering Student at "Ecole Polytechnique de Tunisie", I'm constantly learning and exploring new technologies to improve my skills.
+I'm a Multidisciplinary Engineering Student at "Ecole Polytechnique de Tunisie", I'm constantly learning and exploring new technologies to improve my skills. As someone who is passionate about Artificial Intelligence (AI), I am eager to use my skills to contribute to innovation in Tunisia, Africa, and beyond. My interest in AI grew from my studies in mathematics during my pre-engineering education, and I am excited to apply that knowledge to create tech-based solutions. In my free time, I enjoy participating in competitions on platforms like ZINDI and KAGGLE to enhance my skills.
 
 
 ### Connect with Me :
